@@ -47,7 +47,7 @@ export default function RootLayout({
         />
         <meta
           property="og:image"
-          content="https://metatags.io/images/meta-tags.png"
+          content="background.svg"
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.ktrnds.com" />
@@ -61,7 +61,7 @@ export default function RootLayout({
         />
         <meta
           property="twitter:image"
-          content="https://metatags.io/images/meta-tags.png"
+          content="background.svg"
         />
       </head>
       <body>

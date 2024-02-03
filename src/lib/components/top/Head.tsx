@@ -19,7 +19,7 @@ export const Head = () => {
           <Heading fontSize={'5xl'}>
             先進的な
             <br />
-            技術的アイデアを。
+            技術とアイデアを。
           </Heading>
         </Box>
       </Flex>

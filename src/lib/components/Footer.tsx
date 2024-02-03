@@ -41,7 +41,8 @@ export const Footer = () => {
       </Flex>
       <Box borderBottom={'1px'} />
       <Box mx={4} my={2}>
-        <Text fontSize={'3xl'}>先進的な 技術的アイデアを。</Text>
+        <Text fontSize={'3xl'}>先進的な技術とアイデアを。</Text>
+        <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
       </Box>
     </Box>
   );
